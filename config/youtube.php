@@ -10,5 +10,5 @@
 */
 
 return [
-    'key' => env('YOUTUBE_API_KEY', 'YOUR_API_KEY')
+    'key' => env('YOUTUBE_API_KEY', 'AIzaSyAUbULPpe4VHI4wAO9M9zEhKyi9ZggauU0')
 ];
